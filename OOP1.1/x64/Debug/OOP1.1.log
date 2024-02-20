@@ -1,0 +1,5 @@
+﻿  Line.cpp
+  OOP1.1.cpp
+  Generating Code...
+D:\programyvanya\OOP1.1\OOP1.1\Line.cpp(30): warning C4715: 'Line::Init': not all control paths return a value
+  OOP1.1.vcxproj -> D:\programyvanya\OOP1.1\x64\Debug\OOP1.1.exe
